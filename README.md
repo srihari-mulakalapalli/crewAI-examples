@@ -3,6 +3,9 @@
 crewAI is designed to facilitate the collaboration of role-playing AI agents.
 This is a collection of examples of different ways to use the crewAI framework to automate the processes.
 By [@joaomdmoura].
+
+
+
 ## Examples
 - [Marketing Strategy](https://github.com/joaomdmoura/crewAI-examples/tree/main/marketing_strategy)
 - [Surprise Trip](https://github.com/joaomdmoura/crewAI-examples/tree/main/surprise_trip)
